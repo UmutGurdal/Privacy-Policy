@@ -7,7 +7,7 @@ We use Your Personal data to provide and improve the Service. By using the Servi
 
 # Interpretation and Definitions
 
-###Interpretation
+### Interpretation
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
 ###Definitions
@@ -84,7 +84,7 @@ Administered by: Us
 
 Purpose: These Cookies allow us to remember choices You make, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time.
 
-#Use of Your Personal Data
+# Use of Your Personal Data
 The Company may use Personal Data for the following purposes:
 
 To provide and maintain our Service, including to monitor the usage of our Service.
@@ -123,17 +123,17 @@ Your consent to this Privacy Policy followed by Your submission of such informat
 
 The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
 
-###Disclosure of Your Personal Data
+### Disclosure of Your Personal Data
 Business Transactions
 If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
 Law enforcement
 Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
-###Other legal requirements
+### Other legal requirements
 The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
 
-###Comply with a legal obligation
+### Comply with a legal obligation
 Protect and defend the rights or property of the Company
 Prevent or investigate possible wrongdoing in connection with the Service
 Protect the personal safety of Users of the Service or the public
@@ -141,7 +141,7 @@ Protect against legal liability
 Security of Your Personal Data
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
-###Children's Privacy
+### Children's Privacy
 Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
 
 If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
@@ -151,7 +151,7 @@ Our Service may contain links to other websites that are not operated by Us. If 
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-###Changes to this Privacy Policy
+### Changes to this Privacy Policy
 We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
 
 We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
